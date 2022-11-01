@@ -1,0 +1,8 @@
+c:\users\brytt\documents\visual studio 2012\Projects\TicTackToeAuthentication\TicTackToeAuthentication\bin\Debug\TicTackToeAuthentication.exe.config
+c:\users\brytt\documents\visual studio 2012\Projects\TicTackToeAuthentication\TicTackToeAuthentication\bin\Debug\TicTackToeAuthentication.exe
+c:\users\brytt\documents\visual studio 2012\Projects\TicTackToeAuthentication\TicTackToeAuthentication\bin\Debug\TicTackToeAuthentication.pdb
+c:\users\brytt\documents\visual studio 2012\Projects\TicTackToeAuthentication\TicTackToeAuthentication\obj\Debug\TicTackToeAuthentication.Properties.Resources.resources
+c:\users\brytt\documents\visual studio 2012\Projects\TicTackToeAuthentication\TicTackToeAuthentication\obj\Debug\TicTackToeAuthentication.csproj.GenerateResource.Cache
+c:\users\brytt\documents\visual studio 2012\Projects\TicTackToeAuthentication\TicTackToeAuthentication\obj\Debug\TicTackToeAuthentication.exe
+c:\users\brytt\documents\visual studio 2012\Projects\TicTackToeAuthentication\TicTackToeAuthentication\obj\Debug\TicTackToeAuthentication.pdb
+C:\Users\brytt\Documents\Visual Studio 2012\Projects\TicTackToeAuthentication\TicTackToeAuthentication\obj\Debug\TicTackToeAuthentication.TicTacToeAuth.resources
